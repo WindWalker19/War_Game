@@ -1,4 +1,4 @@
-# For this project we will be using OOP to create a card game. This card game will
+# This card game will
 # be the card game "War" for two players, you an the computer. If you don't know
 # how to play "War" here are the basic rules:
 #
@@ -17,8 +17,6 @@
 # another card face down and turns another card face up. The player with the
 # higher card takes all 10 cards, and so on.
 #
-# There are some more variations on this but we will keep it simple for now.
-# Ignore "double" wars
 #
 # https://en.wikipedia.org/wiki/War_(card_game)
 
